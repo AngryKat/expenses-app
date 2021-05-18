@@ -5,7 +5,6 @@ A complete practice project  developed during Udemy course React - The Complete 
 
 ## Interface 
 
-![app screenshots]
-(/readme/2021-05-18 17.00.12.jpg)
+![app screenshots](/readme/2021-05-18 17.00.12.jpg)
 
 
